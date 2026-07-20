@@ -1,5 +1,6 @@
 * {
     margin: 0 auto;
+
 }
 
 /* navbar creation */
@@ -193,4 +194,30 @@ section button {
     color: rgb(246, 236, 236);
 }
 
+
+/* footer setup  */
+
+.footer-parent{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 40px;
+    background-color: #0d1b2a;
+    padding: 20px;
+    color: #788490;
+}
+.icons{
+    display: flex;
+    flex-direction: column;
+    gap:  8px ;
+    margin-bottom: 10px;
+}
+.copyrt p{
+    margin-top: 10px;
+}
+
+.footright{
+    display: inline-flex;
+    gap: 20px;
+}
 
