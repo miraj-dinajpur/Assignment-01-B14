@@ -1,0 +1,110 @@
+* {
+    margin: 0 auto;
+}
+
+/* navbar creation */
+
+.container {
+    max-width: 1400px;
+    margin: auto;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 0px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 25px;
+    padding: 10px;
+}
+
+nav ul a {
+    text-decoration: none;
+    color: #767676;
+}
+
+/* common button  */
+.cmn-button-1 {
+    background-color: #1d4ed8;
+    font-size: 14px;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    border: none;
+}
+
+/* hero section */
+
+.Hero {
+    background-image: url(./images/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 780px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+
+}
+
+.Hero h2 {
+    color: white;
+    align-items: center;
+    max-width: 900px;
+    font-size: 90px;
+    margin-top: 80px;
+}
+
+.Hero p {
+    color: white;
+    font-size: 24px;
+    max-width: 650px;
+    margin: 10px;
+    text-align: center;
+}
+
+section button {
+    margin-top: 300px;
+    font-size: 28px !important;
+}
+
+/* meet the speakers */
+
+.Identity-heading {
+    font-weight: 800;
+    text-align: center;
+    font-size: 48px;
+    padding: 20px;
+}
+
+.speaker-parent {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    max-width: 1800px;
+}
+.content{
+    gap: 50px;
+}
+
+.speaker-child {
+    border: 1px solid rgb(150, 146, 146);
+    border-radius: 8px;
+    
+}
+.speaker-child h4{
+    font-size: 24px;
+    font-weight: 800;
+}
+.p1{
+    font-weight: 600;
+    color: #1d4ed8;
+}
+.p2{
+    color: black;;
+}
