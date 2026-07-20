@@ -87,15 +87,22 @@ section button {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     max-width: 1800px;
+    gap: 20px;
 }
 .content{
-    gap: 50px;
+    padding: 10px;
 }
 
 .speaker-child {
     border: 1px solid rgb(150, 146, 146);
     border-radius: 8px;
-    
+    width: 90%;
+    height: 100%;    
+
+}
+.speaker-child img{
+    width: 100%;
+    object-fit: cover;
 }
 .speaker-child h4{
     font-size: 24px;
