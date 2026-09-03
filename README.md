@@ -11,7 +11,7 @@ https://miraj-dinajpur.github.io/Assignment-01-B14/
 
 <!-- Add your project screenshot here -->
 
-![Project Screenshot](./assets/Screenshot1.jpg)
+[Project Screenshot](./assets/Screenshot1.jpg)
 
 ## 🛠️ Technologies Used
 
