@@ -2,6 +2,10 @@
 
 A clean and responsive web project built with **HTML5** and **CSS3**. This project focuses on creating a modern, user-friendly interface with a structured layout and responsive design.
 
+## Overview
+
+DevConf is a single-page conference landing website where visitors can explore event details, featured speaker profiles, and ticket packages, and register for the event directly. The project was built primarily with HTML and CSS to practice semantic structure, clean layouts, and responsive web design.
+
 ## 🌐 Live Demo
 
 **Live Website:**
@@ -24,7 +28,6 @@ https://miraj-dinajpur.github.io/Assignment-01-B14/
 * Clean and modern user interface
 * Structured HTML5 layout
 * Custom CSS styling
-* Mobile-friendly layout
 * Easy-to-use navigation and sections
 * Cross-browser compatible design
 
@@ -36,8 +39,7 @@ This project does not require any external package or framework.
 
 * HTML5
 * CSS3
-* Google Fonts *(if used in the project)*
-* External images/assets *(if used)*
+* External images
 
 ## 🚀 How to Run Locally
 
@@ -46,7 +48,7 @@ Follow these steps to run the project on your local machine.
 ### 1. Clone the repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone <https://github.com/miraj-dinajpur/Assignment-01-B14.git>
 ```
 
 ### 2. Go to the project directory
@@ -78,7 +80,7 @@ Assignment-01-B14/
 ## 🔗 Relevant Links
 
 * **Live Demo:** https://miraj-dinajpur.github.io/Assignment-01-B14/
-* **GitHub Repository:** Add your repository URL here
+* **GitHub Repository:** https://github.com/miraj-dinajpur/Assignment-01-B14.git
 
 ## 👨‍💻 Author
 
